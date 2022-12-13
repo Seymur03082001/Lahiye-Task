@@ -1,0 +1,15 @@
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\bin\Debug\net6.0\Layihe-Task.exe
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\bin\Debug\net6.0\Layihe-Task.deps.json
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\bin\Debug\net6.0\Layihe-Task.runtimeconfig.json
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\bin\Debug\net6.0\Layihe-Task.dll
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\bin\Debug\net6.0\Layihe-Task.pdb
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.csproj.AssemblyReference.cache
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.AssemblyInfoInputs.cache
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.AssemblyInfo.cs
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.dll
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\refint\Layihe-Task.dll
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.pdb
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\Layihe-Task.genruntimeconfig.cache
+C:\Users\ca.r215.07\Desktop\Layihe-Task\Layihe-Task\obj\Debug\net6.0\ref\Layihe-Task.dll
